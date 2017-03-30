@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{desjardins_direct_2013}
+O.~Desjardins, J.~McCaslin, M.~Owkes, and P.~Brady.
+\newblock Direct numerical and large-eddy simulation of primary atomization in
+  complex geometries.
+\newblock {\em Atomization and Sprays}, 23(11):1001--1048, 2013.
+
+\bibitem{owkes_discontinuous_2013}
+M.~Owkes and O.~Desjardins.
+\newblock A discontinuous {G}alerkin conservative level set scheme for
+  interface capturing in multiphase flows.
+\newblock {\em Journal of Computational Physics}, 249(15):275--302, Sept. 2013.
+
+\bibitem{owkes_computational_2014}
+M.~Owkes and O.~Desjardins.
+\newblock A computational framework for conservative, three-dimensional,
+  unsplit, geometric transport with application to the volume-of-fluid ({VOF})
+  method.
+\newblock {\em Journal of Computational Physics}, 270(1):587--612, Aug. 2014.
+
+\bibitem{owkes_mesh-decoupled_2015}
+M.~Owkes and O.~Desjardins.
+\newblock A mesh-decoupled height function method for computing interface
+  curvature.
+\newblock {\em Journal of Computational Physics}, 281:285--300, Jan. 2015.
+
+\end{thebibliography}
