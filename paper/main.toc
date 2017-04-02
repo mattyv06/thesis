@@ -14,26 +14,26 @@
 \contentsline {section}{PCB Layout and Mechanical Design}{4}{section*.14}
 \contentsline {section}{Calibration and Results}{4}{section*.16}
 \setcounter {tocdepth}{3}
-\contentsline {chapter}{\numberline {4.}\MakeUppercase {Design Study - Electrical Power Subsystem}}{7}{chapter.4}
-\contentsline {section}{Requirements and Conceptual Design}{7}{section*.17}
-\contentsline {section}{Circuit Simulations and Calculations}{7}{section*.18}
-\contentsline {section}{PCB Layout and Mechanical Design}{7}{section*.19}
-\contentsline {section}{Lessons Learned and Future Work}{7}{section*.20}
+\contentsline {chapter}{\numberline {4.}\MakeUppercase {Design Method Example: Electrical Power Subsystem}}{7}{chapter.4}
+\contentsline {section}{Requirements and Conceptual Design}{8}{section*.18}
+\contentsline {section}{Circuit Simulations and Calculations}{10}{section*.22}
+\contentsline {section}{PCB Layout and Mechanical Design}{10}{section*.23}
+\contentsline {section}{Lessons Learned and Future Work}{10}{section*.24}
 \setcounter {tocdepth}{3}
-\contentsline {chapter}{\numberline {5.}\MakeUppercase {Design Study - Electrical Ground Support Equipment}}{8}{chapter.5}
-\contentsline {section}{Requirements and Conceptual Design}{8}{section*.21}
-\contentsline {section}{Circuit Simulations and Calculations}{8}{section*.22}
-\contentsline {section}{PCB Layout and Mechanical Design}{8}{section*.23}
-\contentsline {section}{Lessons Learned and Future Work}{8}{section*.24}
+\contentsline {chapter}{\numberline {5.}\MakeUppercase {Design Study - Electrical Ground Support Equipment}}{11}{chapter.5}
+\contentsline {section}{Requirements and Conceptual Design}{11}{section*.25}
+\contentsline {section}{Circuit Simulations and Calculations}{11}{section*.26}
+\contentsline {section}{PCB Layout and Mechanical Design}{11}{section*.27}
+\contentsline {section}{Lessons Learned and Future Work}{11}{section*.28}
 \setcounter {tocdepth}{3}
-\contentsline {chapter}{\numberline {6.}\MakeUppercase {Future Methods}}{9}{chapter.6}
+\contentsline {chapter}{\numberline {6.}\MakeUppercase {Future Methods}}{12}{chapter.6}
 \setcounter {tocdepth}{3}
-\contentsline {chapter}{\numberline {7.}\MakeUppercase {Conclusion}}{10}{chapter.7}
-\contentsline {chapter}{\MakeUppercase {References Cited}}{11}{section*.25}
+\contentsline {chapter}{\numberline {7.}\MakeUppercase {Conclusion}}{13}{chapter.7}
+\contentsline {chapter}{\MakeUppercase {References Cited}}{14}{section*.29}
 \setcounter {tocdepth}{3}
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{APPENDICES}{12}{section*.26}
+\contentsline {chapter}{APPENDICES}{15}{section*.30}
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{\hspace {0.15in}\MakeUppercase {\MakeUppercase {Appendix}} \numberline {A}\hspace {-0.18in} : Example Code \vspace {-0.15in}}{13}{appendix.A}
+\contentsline {chapter}{\hspace {0.15in}\MakeUppercase {\MakeUppercase {Appendix}} \numberline {A}\hspace {-0.18in} : Example Code \vspace {-0.15in}}{16}{appendix.A}
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{\hspace {0.15in}\MakeUppercase {\MakeUppercase {Appendix}} \numberline {B}\hspace {-0.18in} : Example Schematic \vspace {-0.15in}}{15}{appendix.B}
+\contentsline {chapter}{\hspace {0.15in}\MakeUppercase {\MakeUppercase {Appendix}} \numberline {B}\hspace {-0.18in} : Example Schematic \vspace {-0.15in}}{18}{appendix.B}

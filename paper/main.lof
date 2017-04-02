@@ -1,3 +1,7 @@
 \setcounter {tocdepth}{1}
 \contentsline {figure}{\numberline {3.1}{\ignorespaces This block diagram represents the components of the FISCE load circuit and their functions.\relax }}{5}{figure.caption.12}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces The assembled FISCE load circuit on the backside of the solar panel substrate.\relax }}{6}{figure.caption.15}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A simplified representation of the design method used in this chapter.\relax }}{8}{figure.caption.17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Basic configuration of a direct energy transfer (DET) power subsystem, with primary current paths shown by arrows.\relax }}{8}{figure.caption.19}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Components of the Phoenix EPS and the connections that form the PDN of the spacecraft.\relax }}{9}{figure.caption.20}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces New connector pinouts.\relax }}{9}{figure.caption.21}
